@@ -1,2 +1,2 @@
 # Search-Queries-Analysis
-Python script to analyse search queries from Search Queries Report in GA.
+analyse-queries.py - script to analyse search queries from Search Queries Report in GA.
